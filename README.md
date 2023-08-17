@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JafriAli1
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Instagram @ _jafriali
 
