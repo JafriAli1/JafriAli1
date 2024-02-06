@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Raza Jafri and I'm a MERN Stack developer from Bhadohi, Uttar Pradesh</p>
+<p align="left">My name is Ali Raza Jafri and I'm a MERN Stack developer from Lucknow </p>
 
 ###
 
